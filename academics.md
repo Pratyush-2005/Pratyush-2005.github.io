@@ -3,6 +3,9 @@ layout: default
 title: Academics & Projects
 permalink: /academics/
 ---
+[Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writing](/writing/)
+
+---
 # Academics & Selected Projects
 
 ---
