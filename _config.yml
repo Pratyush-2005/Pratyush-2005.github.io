@@ -1,9 +1,7 @@
 title: Pratyush Patra
 description: M.Stat student at ISI Kolkata | Statistics
 # theme: minimal-mistakes-jekyll  # Comment this out
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-architect
 google_analytics: G-75E04PH759
 
 #Navigation bar settings
