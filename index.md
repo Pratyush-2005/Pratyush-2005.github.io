@@ -6,7 +6,7 @@ title: Home
 ---
 # Bio
 
-**M.Stat student at Indian Statistical Institute, Kolkata**
+**M.Stat student at Indian Statistical Institute, Kolkata**|
 *Former Research Intern at Yale School of Public Health*
 
 ---
