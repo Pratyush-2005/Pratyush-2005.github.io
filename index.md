@@ -12,7 +12,7 @@ title: Home
 **M.Stat Student at Indian Statistical Institute (ISI)**  
 *Former Research Intern at Yale School of Public Health*
 
-[✉️ Email Me](mailto:your.email@example.com) • [📄 Download CV (PDF)](/assets/cv.pdf) • [🐙 GitHub](https://github.com/yourusername)
+[✉️ Email Me](mailto:your.email@example.com) • [📄 Download CV (PDF)](/assets/Pratyush CV.pdf) • [🐙 GitHub](https://github.com/yourusername)
 
 <div style="clear: both;"></div>
 
