@@ -1,4 +1,8 @@
-[Home](/) | [Academics](/academics/) | [Readings](/readings/) | [Writings](/writings/)
+---
+layout: default
+title: Home
+---
+[Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writing](/writing/)
 ---
 # Bio
 
