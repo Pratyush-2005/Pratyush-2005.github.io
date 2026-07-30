@@ -3,9 +3,7 @@ layout: default
 title: Academics and Selected Projects
 permalink: /academics/
 ---
-
 [Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writings](/writings/)
-
 ---
 
 # Featured Research & Class Spotlights
@@ -22,7 +20,7 @@ permalink: /academics/
 * **Focus:** Biostatistics, Survival Analysis, Mixed-Effects Growth Models, Missing Data
 * **Summary:** Analyzed longitudinal clinical data (193 patients, 982 visits) from an Indian cohort presenting at advanced disease stages (41.3% CKD G5 at baseline). Combined Kaplan-Meier/Cox Proportional Hazards modeling for composite endpoints with Linear Mixed-Effects Growth Models to evaluate eGFR decline trajectories. Handled structured missingness using MICE with Predictive Mean Matching (PMM)
 * **Retrospective / Lesson Learned:** *We should've done the imputation multiple times and then pool the results. Also the final cox model should've been applied on a pre split held out data, in the current setup the p-values are not interpretable.*
-* [📄 Read Full Report (PDF)](assets/ADPKD (7).pdf)
+* [📄 Read Full Report (PDF)](assets/ADPKD(7).pdf)
 
 ---
 
