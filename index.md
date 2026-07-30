@@ -1,9 +1,5 @@
 [Home](/) | [Academics](/academics/) | [Readings](/readings/) | [Writings](/writings/)
 ---
----
-layout: default
-title: Home
----
 # Bio
 
 **M.Stat student at Indian Statistical Institute, Kolkata**
