@@ -3,8 +3,7 @@ layout: default
 title: Readings
 permalink: /readings/
 ---
-[Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writing](/writing/)
-
+[Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writings](/writings/)
 ---
 # Statistical Concepts & Readings
 
