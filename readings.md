@@ -3,6 +3,9 @@ layout: default
 title: Readings
 permalink: /readings/
 ---
+[Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writing](/writing/)
+
+---
 # Statistical Concepts & Readings
 
 A collection of intuitive summaries on subtle statistical paradoxes and common empirical pitfalls.
