@@ -5,14 +5,14 @@ title: Home
 [Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writing](/writing/)
 ---
 
-<img src="/assets/profile.jpg" alt="Pratyush Patra" width="160" style="float: right; margin-left: 20px; border-radius: 50%;">
+<img src="assets/SB2_4328 - Copy.JPG" alt="Pratyush Patra" width="160" style="float: right; margin-left: 20px; border-radius: 50%;">
 
 # Pratyush Patra
 
 **M.Stat Student at Indian Statistical Institute (ISI)**  
 *Former Research Intern at Yale School of Public Health*
 
-[✉️ Email Me](mailto:your.email@example.com) • [📄 Download CV (PDF)](/assets/Pratyush CV.pdf) • [🐙 GitHub](https://github.com/yourusername)
+[✉️ Email Me](mailto:patrapratyush20012005@gmail.com) • [📄 Download CV (PDF)](/assets/Pratyush CV.pdf) • [🐙 GitHub](https://github.com/Pratyush-2005)
 
 <div style="clear: both;"></div>
 
