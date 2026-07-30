@@ -4,6 +4,10 @@ description: M.Stat student at ISI Kolkata | Statistics
 theme: jekyll-theme-architect
 google_analytics: G-75E04PH759
 
+# Contact information
+email: your.email@example.com   # Replace with your actual email
+github_username: yourusername   # Replace with your GitHub handle
+
 #Navigation bar settings
 header_pages:
   - index.md
