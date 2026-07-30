@@ -1,6 +1,10 @@
 [Home](/) | [Academics](/academics/) | [Readings](/readings/) | [Writings](/writings/)
 
 ---
+layout: default
+title: Home
+permalink: /index/
+---
 # Bio
 
 **M.Stat student at Indian Statistical Institute, Kolkata**
