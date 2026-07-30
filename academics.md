@@ -13,8 +13,8 @@ permalink: /academics/
 ### Yale School of Public Health — Summer Research Internship
 * **Program:** Big Data Summer Immersion at Yale 2026
 * **Focus:** Electronic Health Records, Analyzing Longitudinal Data, Variable Selection, Missing Data Handling
-* **Summary:**
-* **Lesson Learned:**
+* **Summary:** Analyzed ICU patients from MIMIC-IV data to extract features using SHAP values and Permutation importance on different machine learning models. Used Generalized Estimating Equations and OU Process modelling to check extent of association of extracted features. Used Multistage Multiple Imputation and Rubin's Rules to handle missing data and pool results.
+* **Lesson Learned:** *Had to do median imputation in some predictive models due to lack of computational power. Checked only for linear forms of association.*
 *  [📄 Slides (PDF)](assets/EHR Group 3.pdf)• [📄 Poster (PDF)](assets/Analyzing_Creatinine_Trajectory_with_Machine_Learning_Variable_Selection_FINAL.pdf)
 
 ---
