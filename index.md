@@ -3,7 +3,7 @@
 ---
 layout: default
 title: Home
-permalink: /index/
+permalink: /Home/
 ---
 # Bio
 
