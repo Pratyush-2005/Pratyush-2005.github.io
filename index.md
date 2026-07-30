@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-[Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writing](/writing/)
+[Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writings](/writings/)
 ---
 
 <img src="assets/SB2_4328 - Copy.JPG" alt="Pratyush Patra" width="160" style="float: right; margin-left: 20px; border-radius: 50%;">
@@ -12,7 +12,7 @@ title: Home
 **M.Stat Student at Indian Statistical Institute (ISI)**  
 *Former Research Intern at Yale School of Public Health*
 
-[✉️ Email Me](mailto:patrapratyush20012005@gmail.com) • [📄 Download CV (PDF)](/assets/Pratyush CV.pdf) • [🐙 GitHub](https://github.com/Pratyush-2005)
+[✉️ patrapratyush20012005@gmail.com] • [📄 Download CV (PDF)](/assets/Pratyush CV.pdf) • [🐙 GitHub](https://github.com/Pratyush-2005)
 
 <div style="clear: both;"></div>
 
