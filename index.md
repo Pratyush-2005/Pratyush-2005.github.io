@@ -12,7 +12,7 @@ title: Home
 **M.Stat Student at Indian Statistical Institute (ISI)**  
 *Former Research Intern at Yale School of Public Health*
 
-[✉️ patrapratyush20012005@gmail.com] • [📄 Download CV (PDF)](/assets/Pratyush CV.pdf) • [🐙 GitHub](https://github.com/Pratyush-2005)
+✉️ patrapratyush20012005@gmail.com • [📄 Download CV (PDF)](/assets/Pratyush CV.pdf) • [🐙 GitHub](https://github.com/Pratyush-2005)
 
 <div style="clear: both;"></div>
 
