@@ -15,7 +15,7 @@ permalink: /academics/
 * **Focus:** Electronic Health Records, Analyzing Longitudinal Data, Variable Selection, Missing Data Handling
 * **Summary:**
 * **Lesson Learned:**
-*  [📄 Slides (PDF)](assets/EHR Group 3.pdf)•[📄 Poster (PDF)](assets/Analyzing Creatinine Trajectory with Machine Learning Variable Selection FINAL.pdf)
+*  [📄 Slides (PDF)](assets/EHR Group 3.pdf)• [📄 Poster (PDF)](assets/Analyzing_Creatinine_Trajectory_with_Machine_Learning_Variable_Selection_FINAL.pdf)
 
 ---
 
