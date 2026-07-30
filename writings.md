@@ -1,4 +1,3 @@
-[Home](/) | [Academics](/academics/) | [Readings](/readings/) | [Writings](/writings/)
 ---
 layout: default
 title: Writings
