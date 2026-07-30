@@ -1,10 +1,10 @@
+[Home](/) | [Academics](/academics/) | [Readings](/readings/) | [Writings](/writings/)
+
+---
 # Bio
 
 **M.Stat student at Indian Statistical Institute, Kolkata**
 *Former Research Intern at Yale School of Public Health*
-
----
-[Home](/) | [Academics](/academics/) | [Readings](/readings/) | [Writings](/writings/)
 
 ---
 
