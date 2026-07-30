@@ -1,3 +1,8 @@
+---
+layout: default
+title: Academics & Projects
+permalink: /academics/
+---
 # Academics & Selected Projects
 
 ---
