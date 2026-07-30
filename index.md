@@ -2,9 +2,7 @@
 layout: default
 title: Home
 ---
-
 [Home](/) • [Academics](/academics/) • [Readings](/readings/) • [Writing](/writing/)
-
 ---
 
 <img src="/assets/profile.jpg" alt="Pratyush Patra" width="160" style="float: right; margin-left: 20px; border-radius: 50%;">
