@@ -9,10 +9,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>{{ page.title | default: site.title }} | {{ site.title }}</title>
-    
+
+    <!-- Architect Theme Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+    <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-    <!-- MathJax for rendering LaTeX math ($$ and $) -->
+    <!-- MathJax Configuration for LaTeX ($ and $$) -->
     <script>
       MathJax = {
         tex: {
@@ -29,11 +35,22 @@
     </script>
   </head>
   <body>
-    <div class="wrapper">
-      <header>
+    <div id="header">
+      <div class="inner">
         <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+      </div>
+    </div>
+
+    <div id="main-content">
+      <div class="inner">
+        <section id="main_content">
+          {{ content }}
+        </section>
+      </div>
+    </div>
+  </body>
+</html>
       <section>
         {{ content }}
       </section>
