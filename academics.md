@@ -55,7 +55,7 @@ Below is a curated collection of statistical modeling, machine learning, and alg
 ### Synthetic Optical Character Recognition (OCR) Engine via Spatial Clustering
 * **Course:** Statistical Methods II (ISI Kolkata)
 * **Methods:** DBSCAN Clustering, Connected Component Labeling (CCL), Spatial Topology, Image Binarization
-* **Summary:** Designed and implemented a custom OCR pipeline to recognize synthetically designed alphabets. Applied DBSCAN clustering \\($\epsilon = 7.5$)\\ on binary pixel coordinates to isolate character bounding boxes, followed by Connected Component Labeling to detect interior chambers and count binary "blobs" mapped to ASCII characters.
+* **Summary:** Designed and implemented a custom OCR pipeline to recognize synthetically designed alphabets. Applied DBSCAN clustering ($\epsilon = 7.5$) on binary pixel coordinates to isolate character bounding boxes, followed by Connected Component Labeling to detect interior chambers and count binary "blobs" mapped to ASCII characters.
 * **Retrospective / Lesson Learned:** *Pixel-level line gaps caused CCL to merge adjacent chambers into a single region, highlighting how topological feature extraction is highly sensitive to line continuity and image binarization thresholds. The project needed a more detailed sensitivity analysis.*
 * [📄 Read Report (PDF)](assets/Statistical_Methods_2_Project_OCR.pdf)
 
