@@ -43,3 +43,37 @@ permalink: /academics/
 * **Summary:** Conducted a multi-module comparative study using NFHS-5 microdata to quantify how socioeconomic gradients vary between high-fertility (Bihar) and low-fertility (Kerala) demographic regimes across parity progression, total children ever born, sanitation, and early childbearing.
 * **Lesson Learned:** *Diagnostic check available in only 1 chapter. Trying to pull too many conclusions from a small piece of data.*
 * [📄 Read Full Report (PDF)](assets/Demography_and_Economic_Statistics_Project.pdf)
+
+---
+
+# Selected Coursework & Minor Projects
+
+Below is a curated collection of statistical modeling, machine learning, and algorithmic implementation projects completed as part of the B.Stat curriculum at ISI Kolkata[span_16](start_span)[span_16](end_span)[span_17](start_span)[span_17](end_span)[span_18](start_span)[span_18](end_span).
+
+---
+
+### Synthetic Optical Character Recognition (OCR) Engine via Spatial Clustering
+* **Course:** Statistical Methods II (ISI Kolkata)
+* **Methods:** DBSCAN Clustering, Connected Component Labeling (CCL), Spatial Topology, Image Binarization
+* **Summary:** Designed and implemented a custom OCR pipeline to recognize synthetically designed alphabets. Applied DBSCAN clustering ($\epsilon = 7.5$) on binary pixel coordinates to isolate character bounding boxes, followed by Connected Component Labeling to detect interior chambers and count binary "blobs" mapped to ASCII characters.
+* **Retrospective / Lesson Learned:** *Pixel-level line gaps caused CCL to merge adjacent chambers into a single region, highlighting how topological feature extraction is highly sensitive to line continuity and image binarization thresholds. The project needed a more detailed sensitivity analysis.*
+* [📄 Read Report (PDF)](assets/Statistical_Methods_2_Project_OCR.pdf)
+
+---
+
+### Comparative Binary Classification & Multivariate Diagnostics on Biomedical Data
+* **Course:** Applied Statistics / Classification Lab (ISI Kolkata)
+* **Methods:** Mahalanobis Distance K-S Test, Fisher Discriminant Analysis (FDA), QDA, Logistic Regression, Probit Regression, ROC-AUC
+* **Summary:** Built a comparative classification framework on the Wisconsin Breast Cancer dataset. Evaluated multivariate normality using Kolmogorov-Smirnov tests on Mahalanobis distances ($p < 10^{-88}$) to justify non-parametric/logistic choices, and trimmed redundant variables ($r > 0.90$) to stabilize model coefficients.
+* **Retrospective / Lesson Learned:** *While FDA achieved the highest AUC (0.9925), formal diagnostic testing proved that the underlying features violated multivariate normality. This reinforced the distinction between empirical classification accuracy and theoretical model assumption validity.*
+* [📄 Read Report (PDF)](assets/Stat_4_Project_Report.pdf)
+
+---
+
+### Multiple Linear Regression & Spatial Analysis of Indian Agricultural Yields
+* **Course:** Statistical Methods III (ISI Kolkata)
+* **Methods:** Exploratory Data Analysis, Multiple Linear Regression (MLR), Multicollinearity Diagnostics, Residual Profiling
+* **Summary:** Analyzed state-, season-, and crop-wise agricultural productivity patterns across India. Modeled rice crop production in West Bengal ($R^2 = 0.966$) using rainfall, cultivated area, and fertilizer application. Dropped pesticide usage prior to fitting due to severe collinearity with fertilizer inputs ($r = 0.95$).
+* **Retrospective / Lesson Learned:** *Residual diagnostics revealed right-skewness and heteroscedasticity in raw production figures, demonstrating that macro-level agricultural yield data requires non-linear or log-transformed specifications rather than standard OLS. Also there is overfitting in the model.*
+* [📄 Read Report (PDF)](assets/Stat_3_Project_Report.pdf)
+* 
