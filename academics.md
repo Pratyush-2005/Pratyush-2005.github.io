@@ -76,4 +76,3 @@ Below is a curated collection of statistical modeling, machine learning, and alg
 * **Summary:** Analyzed state-, season-, and crop-wise agricultural productivity patterns across India. Modeled rice crop production in West Bengal ($R^2 = 0.966$) using rainfall, cultivated area, and fertilizer application. Dropped pesticide usage prior to fitting due to severe collinearity with fertilizer inputs ($r = 0.95$).
 * **Retrospective / Lesson Learned:** *Residual diagnostics revealed right-skewness and heteroscedasticity in raw production figures, demonstrating that macro-level agricultural yield data requires non-linear or log-transformed specifications rather than standard OLS. Also there is overfitting in the model.*
 * [📄 Read Report (PDF)](assets/Stat_3_Project_Report.pdf)
-* 
