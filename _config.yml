@@ -7,6 +7,10 @@ google_analytics: G-75E04PH759
 # Contact information
 email: patrapratyush20012005@gmail.com   # Replace with your actual email
 github_username: Pratyush-2005   # Replace with your GitHub handle
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  
 
 #Navigation bar settings
 header_pages:
